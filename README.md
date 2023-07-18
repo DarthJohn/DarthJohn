@@ -1,6 +1,10 @@
 ### Привет! Я меня зовут Евгений Трусов и я Data Analyst 👋
 
 В репозитории [**Portfolio**](https://github.com/DarthJohn/Portfolio) можно ознакомиться с моими проектами.
+
+Я учусь в Яндекс.Практикуме и сейчас работаю над выпускным проектом. 
+
+Мой стек: Python, Jupiter, Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Folium, SQL, PostgreSQL, Tableau
 <!--
 **DarthJohn/DarthJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
