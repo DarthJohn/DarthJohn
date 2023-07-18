@@ -1,5 +1,6 @@
-### Hi there 👋
+### Привет! Я меня зовут Евгений Трусов и я Data Analyst 👋
 
+В репозитории [**Portfolio**](https://github.com/DarthJohn/Portfolio) можно ознакомиться с моими проектами.
 <!--
 **DarthJohn/DarthJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
