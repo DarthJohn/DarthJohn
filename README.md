@@ -6,6 +6,9 @@
 Интересуюсь игровой аналитикой, поэтому параллельно с учёбой в Практикуме прохожу курс [**Игровая аналитика: от основ к продвинутым методам**](https://edvice.pro/online-course/game-analytics-basics-rus/).
 Нахожусь в поиске работы и интересных тем для пет-проекта.
 
+Мои контакты:
+[trusoveu@gmail.com](trusoveu@gmail.com)
+
 Мой стек: Python, Jupiter, Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Folium, SQL, PostgreSQL, Tableau
 <!--
 **DarthJohn/DarthJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
