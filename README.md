@@ -7,7 +7,9 @@
 Нахожусь в поиске работы и интересных тем для пет-проекта.
 
 Мои контакты:
-<trusoveu@gmail.com>
+- E-mail: <trusoveu@gmail.com>
+- Telegram: <https://t.me/EugeneTru>
+
 
 Мой стек: Python, Jupiter, Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Folium, SQL, PostgreSQL, Tableau
 <!--
