@@ -3,6 +3,8 @@
 В репозитории [**Portfolio**](https://github.com/DarthJohn/Portfolio) можно ознакомиться с моими проектами.
 
 Я учусь в Яндекс.Практикуме и сейчас работаю над выпускным проектом. 
+Интересуюсь игровой аналитикой, поэтому параллельно с учёбой в Практикуме прохожу курс [**Игровая аналитика: от основ к продвинутым методам**](https://edvice.pro/online-course/game-analytics-basics-rus/).
+Нахожусь в поиске работы и интересных тем для пет-проекта.
 
 Мой стек: Python, Jupiter, Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Folium, SQL, PostgreSQL, Tableau
 <!--
